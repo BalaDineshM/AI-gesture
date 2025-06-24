@@ -25,8 +25,11 @@ This is a **virtual drawing application** that uses **hand gestures detected via
 
 ---
 DEMO VIDEO----
+<p align="center">
+  <img src="https://github.com/BalaDineshM/AI-gesture/blob/8b4fd8f69ea9595e7cd5903e409e14b12777f53d/ailow.gif" width="600" alt="Demo">
+</p>
 
-![Hand Gesture Drawing Demo](https://github.com/BalaDineshM/AI-gesture/blob/8b4fd8f69ea9595e7cd5903e409e14b12777f53d/ailow.gif)
+
 
 
 
