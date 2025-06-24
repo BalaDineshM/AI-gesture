@@ -25,7 +25,7 @@ This is a **virtual drawing application** that uses **hand gestures detected via
 
 ---
 ![image alt](https://github.com/BalaDineshM/AI-gesture/blob/582a9a1df89dc819dc6a2aa67410fd9e2a0251a3/Ai1.png)
-![image alt]()
+![image alt](https://github.com/BalaDineshM/AI-gesture/blob/3824bf35f2af7ec69cc11c458707f1b988d6d24e/Ai2.png)
 ![image alt]()
 ![image alt]()
 ![video alt]()
