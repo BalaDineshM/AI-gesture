@@ -24,5 +24,9 @@ This is a **virtual drawing application** that uses **hand gestures detected via
 - **NumPy** – For array/matrix operations
 
 ---
-https://github.com/BalaDineshM/AI-gesture/blob/4c4140a687bd5b8aeb0ff2bc3665d3bccc6b91a9/Ai1.png
+![image alt](https://github.com/BalaDineshM/AI-gesture/blob/4c4140a687bd5b8aeb0ff2bc3665d3bccc6b91a9/Ai1.png)
+![image alt]()
+![image alt]()
+![image alt]()
+![video alt]()
 
